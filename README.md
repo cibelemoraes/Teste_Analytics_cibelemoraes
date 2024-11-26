@@ -1,7 +1,7 @@
 # Análise de dados do Quiosque da Praia - *2023*
 
-## Trabalhei no desenvolvimento de um projeto com um Data frame que fiz a manipulação de dados 
-### até a análise e visualização dos dados 
+## Trabalhei no desenvolvimento de um projeto com um Data frame que fiz a manipulação de dados até a análise e visualização dos dados 
+
  ## Etapas do Projeto
 
 ### Primeiro criei um data frame com as colunas "Data", "Produto", "Categoria", "Quantidade", "Preço"
@@ -16,7 +16,7 @@
 ### e as que tiveram menor desempenho!
 
 ### Para isso também utilizei a biblioteca matplotlib para criar gráficos para uma melhor visualização
-### gerando gráficos de linha de barras destacando tendências de vendas mensais e os produtos mais vendidos em ### categorias específicas, como "Doce".
+### gerando gráficos de linha de barras destacando tendências de vendas mensais e os produtos mais vendidos em categorias específicas, como "Doce".
 
 ### Para finalizar o meu trabalho de desenvolvimento, utilizei meu conhecimento em SQL para criar duas consultas
 ### para listas  vendas por produto e identificar aqueles com menor desempenho em períodos específicos.
